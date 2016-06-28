@@ -1,25 +1,18 @@
 //
-//  Created by Jesse Squires
-//  http://www.jessesquires.com
+//  JSQMessages.h
+//  JSQMessages
 //
-//
-//  Documentation
-//  http://cocoadocs.org/docsets/JSQMessagesViewController
-//
-//
-//  GitHub
-//  https://github.com/jessesquires/JSQMessagesViewController
-//
-//
-//  License
-//  Copyright (c) 2014 Jesse Squires
-//  Released under an MIT license: http://opensource.org/licenses/MIT
+//  Created by Sommer Panage on 6/27/16.
+//  Copyright © 2016 Hexed Bits. All rights reserved.
 //
 
-#ifndef JSQMessages_JSQMessages_h
-#define JSQMessages_JSQMessages_h
+#import <UIKit/UIKit.h>
 
-#import "JSQMessagesViewController.h"
+//! Project version number for JSQMessages.
+FOUNDATION_EXPORT double JSQMessagesVersionNumber;
+
+//! Project version string for JSQMessages.
+FOUNDATION_EXPORT const unsigned char JSQMessagesVersionString[];
 
 //  Views
 #import "JSQMessagesCollectionView.h"
@@ -27,6 +20,8 @@
 #import "JSQMessagesCollectionViewCellOutgoing.h"
 #import "JSQMessagesTypingIndicatorFooterView.h"
 #import "JSQMessagesLoadEarlierHeaderView.h"
+#import "JSQMessagesMediaPlaceholderView.h"
+#import "JSQMessagesTypingView.h"
 
 //  Layout
 #import "JSQMessagesBubbleSizeCalculating.h"
@@ -77,4 +72,5 @@
 #import "UIView+JSQMessages.h"
 #import "NSBundle+JSQMessages.h"
 
-#endif
+// View Controllers
+#import "JSQMessagesViewController.h"

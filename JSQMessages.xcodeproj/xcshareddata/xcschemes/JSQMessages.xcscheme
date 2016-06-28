@@ -29,8 +29,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "88A25F0119D8DEC400924534"
-               BuildableName = "JSQMessages.app"
-               BlueprintName = "JSQMessages"
+               BuildableName = "JSQMessagesDemo.app"
+               BlueprintName = "JSQMessagesDemo"
                ReferencedContainer = "container:JSQMessages.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -71,8 +71,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "88A25F0119D8DEC400924534"
-            BuildableName = "JSQMessages.app"
-            BlueprintName = "JSQMessages"
+            BuildableName = "JSQMessagesDemo.app"
+            BlueprintName = "JSQMessagesDemo"
             ReferencedContainer = "container:JSQMessages.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -94,8 +94,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "88A25F0119D8DEC400924534"
-            BuildableName = "JSQMessages.app"
-            BlueprintName = "JSQMessages"
+            BuildableName = "JSQMessagesDemo.app"
+            BlueprintName = "JSQMessagesDemo"
             ReferencedContainer = "container:JSQMessages.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -113,8 +113,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "88A25F0119D8DEC400924534"
-            BuildableName = "JSQMessages.app"
-            BlueprintName = "JSQMessages"
+            BuildableName = "JSQMessagesDemo.app"
+            BlueprintName = "JSQMessagesDemo"
             ReferencedContainer = "container:JSQMessages.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
